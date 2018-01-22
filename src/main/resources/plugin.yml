@@ -1,0 +1,4 @@
+name: LuckPermsCassandra
+main: me.lucko.luckperms.cassandra.CassandraProviderPlugin
+version: 1.0
+loadbefore: [LuckPerms]
